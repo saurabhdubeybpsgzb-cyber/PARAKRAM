@@ -1,0 +1,5 @@
+{
+  "name": "PARAKRAM Coaching Registration",
+  "description": "A dynamic student registration form for PARAKRAM Coaching Institute. The form dynamically shows available courses based on the student's selected class, providing a streamlined and user-friendly registration experience.",
+  "requestFramePermissions": []
+}
